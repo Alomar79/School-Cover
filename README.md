@@ -54,3 +54,29 @@ These checks cover setup, retry handling, atomic writes, authorization, cache re
 ## Access and data
 
 The code checks an email allowlist on the server. All allowed users have administrative privileges; no read-only role is implemented. Keep real staff records, credentials and operational exports outside the public repository.
+
+
+## صور المشروع | Screenshots
+
+صور من الواجهة باستخدام بيانات تجريبية.
+
+### الصفحة الرئيسية
+![الصفحة الرئيسية](screenshots/1.JPG)
+
+### توزيع الاحتياط
+![توزيع الاحتياط](screenshots/2.JPG)
+
+### تسجيل غياب المعلمين
+![تسجيل الغياب](screenshots/333333.JPG)
+
+### ملخص غياب المعلمين
+![ملخص الغياب](screenshots/444444.JPG)
+
+### العدالة والسجل
+![العدالة والسجل](screenshots/55555.JPG)
+
+### البيانات والإعدادات
+![البيانات والإعدادات](screenshots/66666.JPG)
+
+### الموازنة الإدارية واستيراد الجدول
+![الموازنة واستيراد الجدول](screenshots/77777.JPG)
