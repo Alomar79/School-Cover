@@ -1,0 +1,11 @@
+node_modules/
+output/
+private/
+.env
+.env.*
+.clasp.json
+.clasprc.json
+*.pdf
+*.zip
+.DS_Store
+Thumbs.db
